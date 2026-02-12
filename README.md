@@ -62,7 +62,7 @@ This project was created to practice:
 
 ---
 
-## ⭐ Future Improvements (Optional)
+## ⭐ Future Improvements 
 - Add Quick Sort  
 - Add manual data input option  
 - Improve UI design  
