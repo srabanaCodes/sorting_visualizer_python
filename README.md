@@ -49,7 +49,7 @@ python main.py
 ---
 
 ## 📷 Output
-(Add screenshot of your project output here if you want)
+
 
 ---
 
