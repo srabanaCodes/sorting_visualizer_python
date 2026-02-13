@@ -35,16 +35,13 @@ The goal of this project is to help understand sorting algorithms in a simple an
 
 ## ▶ How To Run The Project
 
-### Step 1 — Install Python
-Download and install Python from the official website.
+How to Run
 
-### Step 2 — Download Project Files
-Download or clone this repository.
+1. Install Python
+2. Open IDLE (Python IDE)
+3. Open main.py file in IDLE
+4. Press F5 or click Run → Run Module
 
-### Step 3 — Run The Program
-Open terminal / command prompt and run:
-
-python main.py
 
 ---
 
