@@ -47,7 +47,7 @@ How to Run
 
 ## 📷 Output
 
-![Uploading sorting_visualizer_output.png…]()
+
 
 ---
 
