@@ -46,6 +46,7 @@ How to Run
 ---
 
 ## 📷 Output
+<img width="1024" height="1536" alt="sorting_visualizer_output" src="https://github.com/user-attachments/assets/8014e0f3-f366-4130-bf6f-f8685746786b" />
 
 
 
